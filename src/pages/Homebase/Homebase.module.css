@@ -1,0 +1,12 @@
+
+.cards{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+@media (max-width: 480px) {
+
+    .banner{
+        max-width: 480px;
+    }
+}

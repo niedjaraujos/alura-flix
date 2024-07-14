@@ -1,0 +1,38 @@
+.modal {
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    background-color: rgba(0, 9, 23, 0.95);
+    position: fixed;
+    display: flex;
+    align-items: center;
+ 
+}
+.cardform {
+    max-width: 55%;
+    border: 2px solid var(--azul);
+    background-color: rgb(2, 15, 34);
+    color: var(--branco);
+    padding: 20px;
+}
+
+.cardform h3 {
+    margin-top: 40px;
+    width: 85%;
+    font-size: 36px;
+    border-top: 2px solid var(--cinza);
+    border-bottom: 2px solid var(--cinza);
+    margin-bottom: 20px;
+    padding-left: 220px;
+}
+
+.close {
+    background: none;
+    border: none;
+    color: var(--branco);
+    cursor: pointer;
+    position: absolute;
+
+}

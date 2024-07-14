@@ -1,0 +1,67 @@
+{ "videos": [
+    {
+        "id": "ZY3-MFxVdEw",
+        "imagem": "https://img.youtube.com/vi/ZY3-MFxVdEw/mqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+        "categoria": "Front-End",
+        "cor": "#FF007F"
+    },
+    
+    {
+        "id": "MnU1K1XIF1E",
+        "imagem": "https://img.youtube.com/vi/MnU1K1XIF1E/mqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=MnU1K1XIF1E",
+        "categoria": "Back-End",
+        "cor": "#008000"
+    },
+    {
+        "id": "DXmI0RaNn5I",
+        "imagem": "https://img.youtube.com/vi/DXmI0RaNn5I/mqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=DXmI0RaNn5I",
+        "categoria": "Data-Science",
+        "cor": "#8A2BE2"
+    },
+    {
+        "id": "fiPfvylj6rk",
+        "imagem": "https://img.youtube.com/vi/fiPfvylj6rk/mqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=fiPfvylj6rk",
+        "categoria": "Back-End",
+        "cor": "#008000"
+    },
+    {
+        "id": "Zwvq-rlIHAw",
+        "imagem": "https://img.youtube.com/vi/Zwvq-rlIHAw/mqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=Zwvq-rlIHAw",
+        "categoria": "Data-Science",
+        "cor": "#8A2BE2"
+    },
+    {
+        "id": "CaTbfdsVydE",
+        "imagem": "https://img.youtube.com/vi/CaTbfdsVydE/mqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=CaTbfdsVydE",
+        "categoria": "Front-End",
+        "cor": "#FF007F"
+    },
+    {
+        "id": "jpuJ1qrluoU",
+        "imagem": "https://img.youtube.com/vi/jpuJ1qrluoU/mqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=jpuJ1qrluoU",
+        "categoria": "Back-End",
+        "cor": "#008000"
+    },
+    {
+        "id": "iVNR-6v8lZU",
+        "imagem": "https://img.youtube.com/vi/iVNR-6v8lZU/mqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=iVNR-6v8lZU",
+        "categoria": "Front-End",
+        "cor": "#FF007F"
+    },
+    {
+        "id": "IQjd272BLnw",
+        "imagem": "https://img.youtube.com/vi/IQjd272BLnw/mqdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=IQjd272BLnw",
+        "categoria": "Data-Science",
+        "cor": "#8A2BE2"
+    }
+]
+}

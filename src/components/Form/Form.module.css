@@ -1,0 +1,80 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    gap: 20px;
+    padding: 20px;
+}
+
+.editcard {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.editar {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.editar label {
+    font-size: 20px;
+}
+
+.editar input {
+    width: 700px;
+    height: 54px;
+    background: none;
+    border: 2px solid var(--cinza);
+    border-radius: 14px;
+    outline: none;
+    text-align: start;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    color: var(--branco);
+    padding: 10px;
+    font-size: 16px;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.list label {
+    font-size: 20px;
+}
+
+.selecao {
+    color: var(--cinza);
+    width: 500px;
+    height: 54px;
+    background: none;
+    border: 2px solid var(--cinza);
+    border-radius: 14px;
+    outline: none;
+    text-align: start;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    padding: 10px;
+    font-size: 16px;
+}
+.editbutton {
+    display: flex;
+    gap: 70px;
+    margin-top: 30px;
+
+}
+.editbutton button {
+    font-size: 20px;
+    background: none;
+    border: 2px solid var(--azul);
+    border-radius: 14px;
+    color: var(--branco);
+    padding: 10px 30px;
+    cursor: pointer;
+}
+.editbutton button:hover {
+    background-color: rgba(37, 60, 113, 0.5);
+}
